@@ -14,3 +14,6 @@ The US Department of Agriculture (USDA) administers the NSLP at the federal leve
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10PMXAuM5-r2v2NdIMjGDB8zWFfMBqvsD2JJvIf8lHro&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 ## John Lennon Timeline
+
+![barchart](https://github.com/emmaegglestonr/emmaegglestonr.github.io/blob/main/Music_Streaming_Service_Revenue_by_Year_Spotify_Revenue_Apple_Music_Revenue_Pandora_Revenue_chartbuilder.png?raw=true)
+## Music Streaming Service Revenue by Year
