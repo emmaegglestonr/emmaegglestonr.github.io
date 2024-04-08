@@ -32,3 +32,10 @@ The US Department of Agriculture (USDA) administers the NSLP at the federal leve
 ## Party Location Data
 
 From this data we can see that females prefer to go to parties off-campus and males prefer to go to parties at fraternity houses on the hill.
+
+<div class='tableauPlaceholder' id='viz1712613813926' style='position: relative'><noscript><a href='#'><img alt='Higher Education Admission Data ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HigherEducationAdmissionData&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HigherEducationAdmissionData&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HigherEducationAdmissionData&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1712613813926'); var vizElement =
+divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
+## Higher Education Data
+
+This is an interactive data set that shows users data on degrees offered and financial aid offered at institutions across the United States.
